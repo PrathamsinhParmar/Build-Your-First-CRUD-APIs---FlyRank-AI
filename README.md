@@ -30,7 +30,7 @@ A simple CRUD API for managing a to-do list, built with Node.js and Express.
 
 Interactive API documentation is available at `http://localhost:3000/docs` via Swagger UI.
 
-*(Insert your Swagger screenshot here)*
+*Swagger UI Screenshots*
 ![Page 1](Screenshots%20-%20Swagger%20UI/image.png)
 ![List All Tasks - API](Screenshots%20-%20Swagger%20UI/image-1.png)
 ![Create New Task - API](Screenshots%20-%20Swagger%20UI/image-2.png)
